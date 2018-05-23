@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <TargetFrameworks>net452;netcoreapp1.1</TargetFrameworks>
     <RootNamespace>Lextm.SharpSnmpLib.Mib</RootNamespace>
     <AssemblyName>Lextm.SharpSnmpLib.Mib</AssemblyName>
   </PropertyGroup>
